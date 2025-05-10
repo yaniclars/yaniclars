@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ffb6c1;">🌸 Hi there! I'm Honey Claire C. 🌸</h1>
+<h1 align="center" style="color:#ffb6c1;">🌸 Ahoy there! I'm Honey Claire C. 🌸</h1>
 
 <p align="center" style="color:#ff69b4;">
   <i>✨ Passionate about crafting seamless, user-friendly mobile and web experiences ✨</i>
