@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-1.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/your-image-2.png" width="100" />
-  <img src="https://user-images.githubusercontent.com/your-image-3.png" width="100" />
-</div>
-
 <h1 align="center" style="color:#ffb6c1;">🌸 Ahoy there! I'm Honey Claire C. 🌸</h1>
 
 <p align="center" style="color:#ff69b4;">
